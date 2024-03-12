@@ -1,3 +1,3 @@
 def call() {
-  sh 'mkdir dir1'
+  sh 'ls -lrt'
 }
