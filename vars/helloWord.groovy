@@ -1,3 +1,3 @@
-def mohan() {
+def call() {
   echo "hello word"
 }
