@@ -1,3 +1,3 @@
 def call() {
-  sh 'echo my name is  mohan'
+  sh 'mkdir dir1'
 }
