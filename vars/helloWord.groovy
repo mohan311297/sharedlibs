@@ -1,3 +1,3 @@
 def call() {
-  echo "hello word"
+  sh 'echo my name is  mohan'
 }
