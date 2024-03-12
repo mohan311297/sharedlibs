@@ -3,5 +3,5 @@ def  add(a,b){
 }
 
 def  sub(a,b){
-  echo "multiplication of ${a} and ${b} is ${a*b}"
+  echo "multiplication of ${a} and ${b} is ${a-b}"
 }
