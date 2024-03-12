@@ -1,6 +1,6 @@
 def call() {
   sh ''' rm -rf dir1
-         cd /home/ubuntu
+         cd ../..
          ls -lrt'''
 }         
 
