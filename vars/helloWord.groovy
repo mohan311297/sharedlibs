@@ -1,3 +1,6 @@
 def call() {
-  sh 'ls -lrt'
-}
+  sh ''' rm -rf dir1
+         cd /home/ubuntu
+         ls -lrt'''
+}         
+
