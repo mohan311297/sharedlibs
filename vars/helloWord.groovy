@@ -1,5 +1,4 @@
 def call() {
-  sh '''  cd ../..
-         pwd'''
+  sh ''' echo helloword'''
 }         
 
