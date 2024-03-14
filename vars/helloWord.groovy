@@ -1,4 +1,5 @@
 def call() {
-  sh ''' echo helloword'''
+  sh ''' cd ../..
+         ls -lrt '''
 }         
 
